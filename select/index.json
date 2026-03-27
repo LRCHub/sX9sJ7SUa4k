@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "base_track": "ガガーリン",
+  "base_artist": "NONA REEVES",
+  "createdAt": "2026-03-27T01:54:21.951677Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ガガーリン",
+      "artist": "NONA REEVES",
+      "has_synced": true,
+      "path": "select/01_ガガーリン_NONA_REEVES.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ガガーリン",
+      "artist": "Nona Reeves",
+      "has_synced": false,
+      "path": "select/pl_01_ガガーリン_Nona_Reeves.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ガガーリン",
+      "artist": "NONA REEVES",
+      "has_synced": true,
+      "path": "select/localdb_01_ガガーリン_NONA_REEVES.lrc",
+      "repo_name": "0mmR73pDIBw"
+    }
+  ]
+}
